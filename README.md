@@ -69,7 +69,7 @@ otherwise show `N/A`.
 ## Quick install (binary)
 
 1. Download `BgLight-vX.Y.Z.exe` from the
-   [**Releases**](https://github.com/navanem/navanem_SysInfoTool/releases) page.
+   [**Releases**](https://github.com/navanem/sysinfo-tool/releases) page.
 2. (Optional) place it in `%ProgramData%\BgLight\`.
 3. Run it once to check the rendering, then schedule it (see
    [Deployment](#enterprise-deployment)).
@@ -178,7 +178,7 @@ Source layout:
 ## Versions
 
 See [`CHANGELOG.md`](CHANGELOG.md) and the
-[Releases](https://github.com/navanem/navanem_SysInfoTool/releases) page.
+[Releases](https://github.com/navanem/sysinfo-tool/releases) page.
 
 ---
 

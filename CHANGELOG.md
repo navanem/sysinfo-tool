@@ -60,7 +60,7 @@ All notable changes to BgLight. Format inspired by
 - `/outputPath`, `/position`, `/bgColor`, `/fontSize`, `/fontName` options.
 - Deployment via scheduled task / GPO (`deploy/run-bglight.bat`).
 
-[1.3.1]: https://github.com/navanem/navanem_SysInfoTool/releases/tag/v1.3.1
-[1.3.0]: https://github.com/navanem/navanem_SysInfoTool/releases/tag/v1.3.0
-[1.2.1]: https://github.com/navanem/navanem_SysInfoTool/releases/tag/v1.2.1
-[1.1.0]: https://github.com/navanem/navanem_SysInfoTool/releases/tag/v1.1.0
+[1.3.1]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.3.1
+[1.3.0]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.3.0
+[1.2.1]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.2.1
+[1.1.0]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.1.0
