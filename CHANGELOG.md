@@ -4,6 +4,13 @@ All notable changes to BgLight. Format inspired by
 [Keep a Changelog](https://keepachangelog.com/), versions follow
 [SemVer](https://semver.org/).
 
+## [1.3.2] - 2026-09-06
+
+### Changed
+- Updated the .NET test infrastructure dependencies.
+- Added Windows CI, Dependabot, contribution, security, and protected-branch
+  configuration for public collaboration.
+
 ## [1.3.1] - 2026-06-23
 
 ### Changed
@@ -60,6 +67,7 @@ All notable changes to BgLight. Format inspired by
 - `/outputPath`, `/position`, `/bgColor`, `/fontSize`, `/fontName` options.
 - Deployment via scheduled task / GPO (`deploy/run-bglight.bat`).
 
+[1.3.2]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.3.2
 [1.3.1]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.3.1
 [1.3.0]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.3.0
 [1.2.1]: https://github.com/navanem/sysinfo-tool/releases/tag/v1.2.1
